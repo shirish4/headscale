@@ -1,6 +1,6 @@
 
 
-# THIS IS A SAMPLE ".tas.yml" CONFIGURATION FILE
+# THIS IS A SAMPLE ".tas.yml" CONFIGURATION FILE.
 # FIRSTLY - You need to specify which testing framework you are using. Currently supported JS frameworks are : mocha, jest and jasmine.
 framework: golang
 version: 1.2.0
